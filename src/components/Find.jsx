@@ -4,7 +4,7 @@ import person1 from '../images/person1.jpg'
 import person2 from '../images/person2.jpg'
 import person3 from '../images/person3.jpg'
 import person4 from '../images/person4.jpg'
-// import five from '../images/5.gif'
+import five from '../images/5.gif'
 function Find() {
   return (
     <div>
@@ -16,7 +16,7 @@ function Find() {
               <img className='i' src={person1} />
               <div className='p1'>
               <p>Name title </p>
-              {/* <img className='verify'src={five} /> */}
+              <img className='verify'src={five} />
               </div>
               <p className='loc'>Location:</p>
             </div>
@@ -24,7 +24,7 @@ function Find() {
               <img className='i' src={person4} />
               <div className='p1'>
               <p>Name title </p>
-              {/* <img className='verify'src={five} /> */}
+              <img className='verify'src={five} />
               </div>
               <p className='loc'>Location:</p>
             </div>
@@ -32,7 +32,7 @@ function Find() {
               <img className='i' src={person3} />
               <div className='p1'>
               <p>Name title </p>
-              {/* <img className='verify'src={five} /> */}
+              <img className='verify'src={five} />
               </div>
               <p className='loc'>Location:</p>
             </div>
@@ -40,7 +40,7 @@ function Find() {
               <img className='i' src={person4} />
               <div className='p1'>
               <p>Name title </p>
-              {/* <img className='verify'src={five} /> */}
+              <img className='verify'src={five} />
               </div>
               <p className='loc'>Location:</p>
             </div>
@@ -48,7 +48,7 @@ function Find() {
               <img className='i' src={person1} />
               <div className='p1'>
               <p>Name title </p>
-              {/* <img className='verify'src={five} /> */}
+              <img className='verify'src={five} />
               </div>
               <p className='loc'>Location:</p>
             </div>

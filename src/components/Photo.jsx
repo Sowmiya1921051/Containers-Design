@@ -1,5 +1,5 @@
 import React from 'react'
-// import Img from '../images/Photo.jpg'
+import Img from '../images/Photo.jpg'
 import '../App.css'
 import one from '../images/1.gif'
 import two from '../images/2.gif'
@@ -8,7 +8,7 @@ import four from '../images/4.gif'
 function Photo() {
     return (
         <div>
-             {/* <img className='cam' src={Img} alt='Hello' /> */}
+             <img className='cam' src={Img} alt='Hello' />
        
         <div className='photo'>
            
