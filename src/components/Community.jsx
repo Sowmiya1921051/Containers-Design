@@ -1,6 +1,6 @@
 import React from 'react'
 import First from '../images/first.webp'
-import person2 from '../images/person2.jpg'
+import person2 from '../images/person2-9c848407.jpg'
 import { FaSearch } from 'react-icons/fa';
 
 function Community() {

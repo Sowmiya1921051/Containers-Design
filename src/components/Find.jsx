@@ -1,10 +1,10 @@
 import React from 'react'
 import '../App.css'
-import person1 from '../images/person1.jpg'
-import person2 from '../images/person2.jpg'
-import person3 from '../images/person3.jpg'
-import person4 from '../images/person4.jpg'
-import five from '../images/5.gif'
+import person1 from '../images/person1-008ec2a4.jpg'
+import person2 from '../images/person2-9c848407.jpg'
+import person3 from '../images/person3-dc5211ec.jpg'
+import person4 from '../images/person4-f0236aef.jpg'
+import five from '../images/5-07095aea.gif'
 function Find() {
   return (
     <div>

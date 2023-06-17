@@ -1,10 +1,10 @@
 import React from 'react'
-import Img from '../images/Photo.jpg'
+import Img from '../images/Photo-970cfc7e.jpg'
 import '../App.css'
-import one from '../images/1.gif'
-import two from '../images/2.gif'
-import three from '../images/3.gif'
-import four from '../images/4.gif'
+// import one from '../images/1.gif'
+import two from '../images/2-f3390e67.gif'
+import three from '../images/3-e698b7ce.gif'
+import four from '../images/4-d974c89b.gif'
 function Photo() {
     return (
         <div>
@@ -30,7 +30,7 @@ function Photo() {
             </div>
 
             <div className='wrapper'>
-                <img className='one' src={one} />
+                <img className='one' src={two} />
 
                 <div className='text-box'>
                     <h1>Verified Reviews</h1>

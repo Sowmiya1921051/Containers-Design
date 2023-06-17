@@ -1,9 +1,9 @@
 import React from 'react'
 import { FaAngleLeft ,FaAngleRight} from 'react-icons/fa';
-import Prewedding from '../images/Prewedding.jpg'
-import wedding from '../images/wedding.jpg'
-import portfolio from '../images/portfolio.jpg'
-import cakecutting from '../images/cakecutting.jpg'
+import Prewedding from '../images/Prewedding-e69729ff.jpg'
+import wedding from '../images/wedding-a56d0fe3.jpg'
+import portfolio from '../images/portfolio-c11625e7.jpg'
+import cakecutting from '../images/cakecutting-968e6613.jpg'
 
 function Our() {
   return (

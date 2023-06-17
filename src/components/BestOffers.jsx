@@ -1,5 +1,5 @@
 import React from 'react'
-import wedding from '../images/wedding.jpg'
+import wedding from '../images/wedding-a56d0fe3.jpg'
 function BestOffers() {
     return (
         <div>

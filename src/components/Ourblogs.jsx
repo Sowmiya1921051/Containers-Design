@@ -1,6 +1,6 @@
 import React from 'react'
-import person5 from '../images/person5.jpg'
-import person6 from '../images/person6.jpg'
+import person5 from '../images/person5-f2b87ada.jpg'
+import person6 from '../images/person6-6c967883.jpg'
 function Ourblogs() {
     return (
         <div className='ourblogs'>

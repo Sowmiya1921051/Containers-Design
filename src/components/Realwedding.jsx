@@ -1,5 +1,5 @@
 import React from 'react'
-import Prewedding from '../images/Prewedding.jpg'
+import Prewedding from '../images/Prewedding-e69729ff.jpg'
 import { FaArrowRight } from 'react-icons/fa';
 function Realwedding() {
     return (

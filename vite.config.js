@@ -8,4 +8,9 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react(),
   ],
+  resolve: {
+    alias: {
+      '@images': '/images', // replace with your actual directory path
+    },
+  },
 })
