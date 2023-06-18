@@ -10,6 +10,10 @@ import Blog from './components/Blog'
 import Ourblogs from './components/Ourblogs'
 import Realwedding from './components/Realwedding'
 import BestOffers from './components/BestOffers'
+import Testimonials from './components/Testimonials'
+import Awards from './components/Awards'
+import Oursuccess from './components/Oursuccess'
+import Photography from './components/Photography'
 function App() {
   return (
     <div>
@@ -22,6 +26,10 @@ function App() {
     <Ourblogs/>
     <Realwedding/>
     <BestOffers/>
+    <Testimonials/>
+    <Awards/>
+    <Oursuccess/>
+    <Photography/>
     </div>
   )
 }
