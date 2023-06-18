@@ -1,6 +1,6 @@
 import React from 'react'
 import pp from '../images/person6-6c967883.jpg'
-import Photography1 from '../images/Photography1.jpg'
+import Photography1 from '../images/Photography1-3b9604bb.jpg'
 function Photography() {
   return (
     <div className='graphy-main'>

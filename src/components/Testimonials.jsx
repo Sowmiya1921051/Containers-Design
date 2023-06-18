@@ -1,5 +1,5 @@
 import React from 'react'
-import six from '../images/6.gif'
+import six from '../images/6-f68027be.gif'
 import Portfolio from '../images/portfolio-c11625e7.jpg'
 function Testimonials() {
   return (
